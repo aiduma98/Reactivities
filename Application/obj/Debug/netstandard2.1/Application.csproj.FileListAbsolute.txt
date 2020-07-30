@@ -1,0 +1,13 @@
+C:\reactivities\Application\bin\Debug\netstandard2.1\Application.deps.json
+C:\reactivities\Application\bin\Debug\netstandard2.1\Application.dll
+C:\reactivities\Application\bin\Debug\netstandard2.1\Application.pdb
+C:\reactivities\Application\bin\Debug\netstandard2.1\Domain.dll
+C:\reactivities\Application\bin\Debug\netstandard2.1\Persistence.dll
+C:\reactivities\Application\bin\Debug\netstandard2.1\Domain.pdb
+C:\reactivities\Application\bin\Debug\netstandard2.1\Persistence.pdb
+C:\reactivities\Application\obj\Debug\netstandard2.1\Application.csprojAssemblyReference.cache
+C:\reactivities\Application\obj\Debug\netstandard2.1\Application.AssemblyInfoInputs.cache
+C:\reactivities\Application\obj\Debug\netstandard2.1\Application.AssemblyInfo.cs
+C:\reactivities\Application\obj\Debug\netstandard2.1\Application.csproj.CopyComplete
+C:\reactivities\Application\obj\Debug\netstandard2.1\Application.dll
+C:\reactivities\Application\obj\Debug\netstandard2.1\Application.pdb
