@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Reactivities\\API\\API.csproj": {}
+    "C:\\Reactivities\\api\\API.csproj": {}
   },
   "projects": {
-    "C:\\Reactivities\\API\\API.csproj": {
+    "C:\\Reactivities\\api\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Reactivities\\API\\API.csproj",
+        "projectUniqueName": "C:\\Reactivities\\api\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Reactivities\\API\\API.csproj",
+        "projectPath": "C:\\Reactivities\\api\\API.csproj",
         "packagesPath": "C:\\Users\\alberto iduma\\.nuget\\packages\\",
-        "outputPath": "C:\\Reactivities\\API\\obj\\",
+        "outputPath": "C:\\Reactivities\\api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\alberto iduma\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -113,6 +113,12 @@
       },
       "frameworks": {
         "netstandard2.1": {
+          "dependencies": {
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.1.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
